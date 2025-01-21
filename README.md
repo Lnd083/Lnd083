@@ -14,7 +14,7 @@
  
 <br>
  
-### Redes abaixo!
+### Redes sociais abaixo!
  
 <div> 
   <a href = "leonardomazepa926@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
